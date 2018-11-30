@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>js表单验证</title>
+    <script type="text/javascript">
+        function check_required() {
+            //检查表单邮箱是否以输入
+            var email= document.getElementsByName("username")[0];
+            console.log(email.value)
+            if (email.value.length == 0){
+                alert("邮箱不能为空")
+            }
+        }
+    </script>
+</head>
+<body>
+    <form action="html-跳转.html"enctype="multipart/form-data">
+
+        <label>用户名：</label><input name="username" type="text" placeholder="请输入用户名" required="true"><br/>
+
+        <label>邮箱：</label><input name="email" type="email" placeholder="请输入邮箱"><br/>
+
+        <label>密码：</label><input name="password" type="password" placeholder="请输入密码" required="true"/><br/>
+
+        单选
+        男<input type="radio"name="sex"value="male">
+        女<input type="radio"name="sex"value="female"><br/>
+
+        复选框：
+        体育<input type="checkbox" name="hobby"value="sport">
+        数学<input type="checkbox" name="hobby"value="sport">
+        语文<input type="checkbox" name="hobby"value="sport">
+        历史<input type="checkbox" name="hobby"value="sport"><br/>
+
+        下拉列表：
+        <select>
+            <option>不惑</option>
+            <option>洞玄</option>
+            <option>知命</option>
+            <option>天启</option>
+            <option>无距</option>
+            <option>无矩</option>
+        </select><br/>
+
+        文本域：
+        <textarea placeholder="反馈建议"readonly="true"></textarea><br/>
+
+        上传文件：
+        <input type="file"><br/>
+
+        <input type="reset" value="点击重置信息"><br/>
+
+        <input type="submit" value="提交" >
+
+
+    </form>
+
+</body>
+</html>

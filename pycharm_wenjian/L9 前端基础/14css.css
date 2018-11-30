@@ -1,0 +1,27 @@
+a{
+    text-decoration: none;
+
+}
+a:link{
+    /*普通状态*/
+    color: royalblue;
+}
+a:hover{
+    /*鼠标悬停*/
+    color: darkviolet;
+
+
+}
+a:visited{
+    /*访问后的链接*/
+    color: chocolate;
+}
+a:active{
+    /*激活状态*/
+    color: green;
+}
+a{
+    font-weight: 900;
+}
+
+

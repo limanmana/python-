@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="235f27a4-39e7-4c1f-b325-8136d45fbfc5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pycharm_$global.coverage" NAME="global Coverage Results" MODIFIED="1537338992356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm" />
+    <SUITE FILE_PATH="coverage/pycharm_$3.coverage" NAME="3抛异常和自定义异常 Coverage Results" MODIFIED="1539568334653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6异常和异常捕获和debug" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$9mysql.coverage" NAME="9mysql驱动 Coverage Results" MODIFIED="1544582219872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L24-数据库2" />
+    <SUITE FILE_PATH="coverage/pycharm_$3_os.coverage" NAME="3-os Coverage Results" MODIFIED="1540288637544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_$5_time.coverage" NAME="5-time Coverage Results" MODIFIED="1540906980630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$1.coverage" NAME="1练习 Coverage Results" MODIFIED="1545637545513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L42更多的资源类型" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$2_.coverage" NAME="2.图片 Coverage Results" MODIFIED="1545748488821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L42更多的资源类型" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$3_sqlite2.coverage" NAME="3-sqlite示例2 Coverage Results" MODIFIED="1542081598995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_$4_.coverage" NAME="4 类的继承 Coverage Results" MODIFIED="1539919400137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L5 类和对象" />
+    <SUITE FILE_PATH="coverage/pycharm_$py1__1_.coverage" NAME="py1 (1) Coverage Results" MODIFIED="1540278607623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包/package/pack2" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$ip.coverage" NAME="百度接口ip定位服务 Coverage Results" MODIFIED="1544510399834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_$VerifyCode__1_.coverage" NAME="VerifyCode (1) Coverage Results" MODIFIED="1541075296186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业/验证码包" />
+    <SUITE FILE_PATH="coverage/pycharm_$8_.coverage" NAME="8-更多模式 Coverage Results" MODIFIED="1539776516432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$4_urllib.coverage" NAME="4 urllib代理 Coverage Results" MODIFIED="1544153943880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$.coverage" NAME="文件批量重命名 Coverage Results" MODIFIED="1546003778573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_$py3.coverage" NAME="py3 Coverage Results" MODIFIED="1541073890571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包/package/pack1" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$4mongo.coverage" NAME="4mongo示例 Coverage Results" MODIFIED="1544423257046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L24-数据库2" />
+    <SUITE FILE_PATH="coverage/pycharm_$1_.coverage" NAME="1-读文本文件 Coverage Results" MODIFIED="1540293449707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$3_os.coverage" NAME="3-os Coverage Results" MODIFIED="1545656785256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_$v2_.coverage" NAME="学生管理系统v2-字典 Coverage Results" MODIFIED="1537955642790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构容器" />
+    <SUITE FILE_PATH="coverage/pycharm_$Hallo_world.coverage" NAME="Hallo world Coverage Results" MODIFIED="1536744085076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$2_uelib.coverage" NAME="2 uelib最简单示例 Coverage Results" MODIFIED="1543993672436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$4User_Agent.coverage" NAME="4User_Agent伪造 Coverage Results" MODIFIED="1544518555691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$2xpath.coverage" NAME="2xpath Coverage Results" MODIFIED="1545634301372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L41更多的解析方式" />
+    <SUITE FILE_PATH="coverage/pycharm_$for_.coverage" NAME="for 循环 Coverage Results" MODIFIED="1539158410214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm" />
+    <SUITE FILE_PATH="coverage/pycharm_$VerifyCode.coverage" NAME="VerifyCode Coverage Results" MODIFIED="1541072104546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业/验证码包/VerifyCode-master" />
+    <SUITE FILE_PATH="coverage/pycharm_$3_.coverage" NAME="3 类变量和静态方法 Coverage Results" MODIFIED="1539918970258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L5 类和对象" />
+    <SUITE FILE_PATH="coverage/pycharm_$5time.coverage" NAME="5time Coverage Results" MODIFIED="1540909021281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.基础类型 控制语句" />
+    <SUITE FILE_PATH="coverage/pycharm_$4_random.coverage" NAME="4-random Coverage Results" MODIFIED="1540778095542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$9requests.coverage" NAME="9requests包 Coverage Results" MODIFIED="1544520905805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$2.coverage" NAME="练习2 Coverage Results" MODIFIED="1545617262431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_$_3.coverage" NAME="作业 3 Coverage Results" MODIFIED="1537515165381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_$v1.coverage" NAME="学生管理系统v1 Coverage Results" MODIFIED="1539784470156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_$4_4_.coverage" NAME="4-4-类的继承（多态） Coverage Results" MODIFIED="1539087375610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L5 类和对象" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$5mongo2.coverage" NAME="5mongo示例2 Coverage Results" MODIFIED="1544423269572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L24-数据库2" />
+    <SUITE FILE_PATH="coverage/pycharm_$_.coverage" NAME="学生管理系统-练习 Coverage Results" MODIFIED="1539936699185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_$5_with.coverage" NAME="5-with语句 Coverage Results" MODIFIED="1539757454375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_$7_.coverage" NAME="7-写非文本文件 Coverage Results" MODIFIED="1539764672125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$6___.coverage" NAME="6-作业_返回字典_官方版 Coverage Results" MODIFIED="1542115547269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$7.coverage" NAME="7请求天气接口 Coverage Results" MODIFIED="1544423119326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_$9_base64.coverage" NAME="9-base64编码 Coverage Results" MODIFIED="1540303617873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$25unittest.coverage" NAME="25unittest单元测试 Coverage Results" MODIFIED="1545204670183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包/package" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$8_debug_pdb.coverage" NAME="8-debug_pdb包示例 Coverage Results" MODIFIED="1542168000182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$8__1_.coverage" NAME="8百度地图接口 (1) Coverage Results" MODIFIED="1544445416614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_$6_.coverage" NAME="6-读非纯文本文件 Coverage Results" MODIFIED="1539848645057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_$8_pillow.coverage" NAME="8-pillow包 Coverage Results" MODIFIED="1540525672215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$ded.coverage" NAME="ded Coverage Results" MODIFIED="1542108080479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_$3return.coverage" NAME="3return Coverage Results" MODIFIED="1537238477954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/pycharm_$10_pillow.coverage" NAME="10-pillow做随机验证码 Coverage Results" MODIFIED="1541073010513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_$10.coverage" NAME="10 Coverage Results" MODIFIED="1537443364606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$app.coverage" NAME="app Coverage Results" MODIFIED="1542766033934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/笔记/flask_demo1" />
+    <SUITE FILE_PATH="coverage/pycharm_$.coverage" NAME="返回字典结果 Coverage Results" MODIFIED="1542021575199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_$py1.coverage" NAME="py1 Coverage Results" MODIFIED="1541073885121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包/package/pack2" />
+    <SUITE FILE_PATH="coverage/pycharm_$3_sqlite2.coverage" NAME="3-sqlite示例2 Coverage Results" MODIFIED="1542022008386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$6__.coverage" NAME="6-作业_返回字典 Coverage Results" MODIFIED="1542115519918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$8.coverage" NAME="8百度地图接口 Coverage Results" MODIFIED="1544175824758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$11_.coverage" NAME="11 正则 Coverage Results" MODIFIED="1545292740237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$6_sql.coverage" NAME="6 更多的sql语句 Coverage Results" MODIFIED="1543995342940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L24-数据库2" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$6dictison.coverage" NAME="6dict和ison互转 Coverage Results" MODIFIED="1544236145308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$_sqlite.coverage" NAME="学生管理系统_sqlite版 Coverage Results" MODIFIED="1544241651804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$2_web.coverage" NAME="2-偏底层的简单web框架 Coverage Results" MODIFIED="1542684357672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L21-web开发介绍" />
+    <SUITE FILE_PATH="coverage/pycharm_$4__.coverage" NAME="4-读文本文件-捕获异常 Coverage Results" MODIFIED="1539744591784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_$while.coverage" NAME="while循环 Coverage Results" MODIFIED="1536842944001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pycharm" />
+    <SUITE FILE_PATH="coverage/pycharm_$2.coverage" NAME="重命名2 Coverage Results" MODIFIED="1540899656311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_$py2.coverage" NAME="py2 Coverage Results" MODIFIED="1540292402685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包/package/pack1" />
+    <SUITE FILE_PATH="coverage/pycharm_$python.coverage" NAME="用python发邮件 Coverage Results" MODIFIED="1540863665348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课外兴趣" />
+    <SUITE FILE_PATH="coverage/pycharm_$10_base64.coverage" NAME="10-base64解码 Coverage Results" MODIFIED="1540303347549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7本地文件读写" />
+    <SUITE FILE_PATH="coverage/pycharm_$11_GUI.coverage" NAME="11-GUI Coverage Results" MODIFIED="1541073970468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$3.coverage" NAME="3需要登录 Coverage Results" MODIFIED="1545815950431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L42更多的资源类型" />
+    <SUITE FILE_PATH="coverage/pycharm_$5_.coverage" NAME="5-重载 Coverage Results" MODIFIED="1539163762601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L5 类和对象" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$v2_.coverage" NAME="学生管理系统v2-字典 Coverage Results" MODIFIED="1542113459319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构容器" />
+    <SUITE FILE_PATH="coverage/pycharm_$1.coverage" NAME="作业1 Coverage Results" MODIFIED="1537359171668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$2_sqlite_1.coverage" NAME="2-sqlite_示例1 Coverage Results" MODIFIED="1542081569256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$k.coverage" NAME="k Coverage Results" MODIFIED="1545658938291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L42更多的资源类型" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$1test.coverage" NAME="1test Coverage Results" MODIFIED="1545622657997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L42更多的资源类型" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$v1.coverage" NAME="学生管理系统v1 Coverage Results" MODIFIED="1542101239556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$23hashlib.coverage" NAME="23hashlib包 Coverage Results" MODIFIED="1545012670182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$xpath.coverage" NAME="爬虫xpath爬取 Coverage Results" MODIFIED="1545294767818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L41更多的解析方式" />
+    <SUITE FILE_PATH="coverage/pycharm_$4_3_.coverage" NAME="4-3-类的继承 Coverage Results" MODIFIED="1539921204998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L5 类和对象" />
+    <SUITE FILE_PATH="coverage/pycharm_$4_2_2.coverage" NAME="4-2-类的继承2 Coverage Results" MODIFIED="1539919460035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L5 类和对象" />
+    <SUITE FILE_PATH="coverage/pycharm_$53.coverage" NAME="5类的继承3 Coverage Results" MODIFIED="1539921389015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/笔记/L5类和对象" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$1beautifulsoup.coverage" NAME="1beautifulsoup Coverage Results" MODIFIED="1545292897216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L41更多的解析方式" />
+    <SUITE FILE_PATH="coverage/pycharm_$2_.coverage" NAME="2-捕获异常 Coverage Results" MODIFIED="1539674031544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6异常和异常捕获和debug" />
+    <SUITE FILE_PATH="coverage/pycharm_$py3__1_.coverage" NAME="py3 (1) Coverage Results" MODIFIED="1540297218290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8包/package/pack1" />
+    <SUITE FILE_PATH="coverage/pycharm_$2_sqlite_demo.coverage" NAME="2-sqlite_demo Coverage Results" MODIFIED="1542021919271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10-数据库基础和sqlite" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$3return.coverage" NAME="3return Coverage Results" MODIFIED="1545215695258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$4.coverage" NAME="4代理池 Coverage Results" MODIFIED="1545745818636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/untitled/老师讲义/L40爬虫入门" />
+    <SUITE FILE_PATH="coverage/pycharm_wenjian$10.coverage" NAME="10糗事百科 Coverage Results" MODIFIED="1544708108665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L40-爬虫入门" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1350661430">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="62" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.5" value="13" />
+          <entry key="project.open.time.6" value="30" />
+          <entry key="project.open.time.7" value="16" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="b'\xff\xd8\xff\xe0\x00\x…d11\xe8\x1b\xbd*K\xb8\xe5" value="1" />
+          <entry key="css" value="43" />
+          <entry key="html" value="115" />
+          <entry key="ipynb" value="3" />
+          <entry key="jpg" value="47" />
+          <entry key="js" value="1" />
+          <entry key="md" value="62" />
+          <entry key="png" value="2" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="474" />
+          <entry key="sql" value="13" />
+          <entry key="sqlite_master" value="5" />
+          <entry key="sqlite_sequence" value="5" />
+          <entry key="student" value="6" />
+          <entry key="student2" value="4" />
+          <entry key="student3" value="3" />
+          <entry key="student4" value="1" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="43" />
+          <entry key="Database Element" value="24" />
+          <entry key="HTML" value="115" />
+          <entry key="IPNB" value="3" />
+          <entry key="Image" value="49" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="62" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="474" />
+          <entry key="SQL" value="2" />
+          <entry key="Scratch" value="11" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="841" />
+          <entry key="cell" value="6" />
+          <entry key="css" value="5288" />
+          <entry key="dummy" value="36" />
+          <entry key="html" value="9587" />
+          <entry key="js" value="49" />
+          <entry key="md" value="9419" />
+          <entry key="py" value="61545" />
+          <entry key="sql" value="380" />
+          <entry key="txt" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="5288" />
+          <entry key="HTML" value="9587" />
+          <entry key="JavaScript" value="49" />
+          <entry key="Markdown" value="9419" />
+          <entry key="PLAIN_TEXT" value="92" />
+          <entry key="Python" value="62384" />
+          <entry key="SQL" value="49" />
+          <entry key="Scratch" value="339" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-470837750">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="99" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="21" />
+          <entry key="project.open.time.7" value="16" />
+          <entry key="project.open.time.8" value="11" />
+          <entry key="project.open.time.9" value="18" />
+          <entry key="project.opened" value="121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="177" />
+          <entry key="cell" value="15" />
+          <entry key="dummy" value="55" />
+          <entry key="html" value="53" />
+          <entry key="json" value="8" />
+          <entry key="md" value="9045" />
+          <entry key="py" value="30041" />
+          <entry key="sql" value="2338" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="53" />
+          <entry key="JSON" value="8" />
+          <entry key="Markdown" value="9045" />
+          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="Python" value="30216" />
+          <entry key="SQL" value="442" />
+          <entry key="Scratch" value="1913" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="2jpg" value="1" />
+          <entry key="baseinfo" value="2" />
+          <entry key="css" value="8" />
+          <entry key="csv" value="1" />
+          <entry key="db" value="3" />
+          <entry key="employsee" value="8" />
+          <entry key="guanli" value="6" />
+          <entry key="html" value="29" />
+          <entry key="img" value="1" />
+          <entry key="jpg" value="9" />
+          <entry key="js" value="2" />
+          <entry key="json" value="5" />
+          <entry key="md" value="76" />
+          <entry key="person" value="4" />
+          <entry key="pet" value="3" />
+          <entry key="png" value="4" />
+          <entry key="pstat" value="1" />
+          <entry key="py" value="247" />
+          <entry key="pyi" value="1" />
+          <entry key="qquser" value="2" />
+          <entry key="relaion" value="2" />
+          <entry key="shirt" value="4" />
+          <entry key="shop" value="1" />
+          <entry key="sql" value="26" />
+          <entry key="sqlite_master" value="3" />
+          <entry key="sqlite_sequence" value="2" />
+          <entry key="student" value="4" />
+          <entry key="student2" value="1" />
+          <entry key="student3" value="4" />
+          <entry key="students" value="3" />
+          <entry key="system " value="1" />
+          <entry key="txt" value="3" />
+          <entry key="weather" value="4" />
+          <entry key="雇员" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="8" />
+          <entry key="Database Element" value="56" />
+          <entry key="HTML" value="29" />
+          <entry key="Image" value="13" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="75" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Profiler Session" value="1" />
+          <entry key="Python" value="247" />
+          <entry key="PythonStub" value="1" />
+          <entry key="SQL" value="6" />
+          <entry key="Scratch" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pycharm_wenjian" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/17-css定位和浮动.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1408">
+              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/18-综合练习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2046">
+              <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/18-css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/作业.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/19-字体图标.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/21-js介绍.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/22js.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/14css.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/15-css盒子模型.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-462" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L9 前端基础/16-css盒子模型练习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Jupyter Notebook" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ip</find>
+      <find>本机</find>
+      <find>'</find>
+      <find>high</find>
+      <find>resu</find>
+      <find>a</find>
+      <find>add</find>
+      <find>熊</find>
+      <find>成</find>
+      <find>有</find>
+      <find>成为</find>
+      <find>span</find>
+      <find>这场</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ecdc72a0-aab0-4789-85a6-39bcd94e5f41/console.sql" />
+        <option value="$PROJECT_DIR$/L24-数据库2/10ORM框架.md" />
+        <option value="$PROJECT_DIR$/L40-爬虫入门/4User_Agent伪造.py" />
+        <option value="$PROJECT_DIR$/L40-爬虫入门/9requests包.py" />
+        <option value="$PROJECT_DIR$/L24-数据库2/9mysql驱动.py" />
+        <option value="$PROJECT_DIR$/L40-爬虫入门/10嗅事百科.py" />
+        <option value="$PROJECT_DIR$/L8包/11 正则.py" />
+        <option value="$PROJECT_DIR$/注释.py" />
+        <option value="$PROJECT_DIR$/L27django/2模型.md" />
+        <option value="$PROJECT_DIR$/L40-爬虫入门/爬虫内容存储.txt" />
+        <option value="$PROJECT_DIR$/L40-爬虫入门/爬虫练习.py" />
+        <option value="$PROJECT_DIR$/L40-爬虫入门/爬虫内容存储.md" />
+        <option value="$PROJECT_DIR$/L27django/1介绍.md" />
+        <option value="$PROJECT_DIR$/L27django/3路由视图函数.md" />
+        <option value="$PROJECT_DIR$/L8包/23hashlib包.py" />
+        <option value="$PROJECT_DIR$/L8包/package/25unittest单元测试.py" />
+        <option value="$PROJECT_DIR$/函数/3return.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/3几种方式比较.md" />
+        <option value="$PROJECT_DIR$/L40-爬虫入门/10糗事百科.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/1beautifulsoup.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/练习2.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/self.html" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/练习.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/爬虫xpath爬取.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/爬虫内容存储.md" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/爬虫正则爬取.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/爬取小说.py" />
+        <option value="$PROJECT_DIR$/L5 类和对象/作业-类版学生管理系统.py" />
+        <option value="$PROJECT_DIR$/数据结构容器/匿名函数.py" />
+        <option value="$PROJECT_DIR$/练习2.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/1纯静态文本.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/1纯静态文本.md" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/1test.py" />
+        <option value="$PROJECT_DIR$/L41更多的解析方式/2xpath.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/1练习.py" />
+        <option value="$PROJECT_DIR$/L8包/3-os.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/k.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/2.图片.py" />
+        <option value="$PROJECT_DIR$/L7本地文件读写/3-写文本文件.py" />
+        <option value="$PROJECT_DIR$/L7本地文件读写/4-读文本文件-捕获异常.py" />
+        <option value="D:/untitled/老师讲义/L40爬虫入门/4代理池.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/图片作业.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/3test未登录请求个人页返回.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/3test未登录请求个人页返回.html" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/实验.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/3需要登录.py" />
+        <option value="$PROJECT_DIR$/L42更多的资源类型/4js接口.py" />
+        <option value="$PROJECT_DIR$/L23前端二/bootstrap.md" />
+        <option value="$PROJECT_DIR$/作业/文件批量重命名.py" />
+        <option value="$PROJECT_DIR$/L9 前端基础/1.html" />
+        <option value="$PROJECT_DIR$/L9 前端基础/5-表格.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="width" value="1271" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pycharm_wenjian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharm_wenjian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pycharm_wenjian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharm_wenjian" type="462c0819:PsiDirectoryNode" />
+              <item name="2.基础类型 控制语句" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pycharm_wenjian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharm_wenjian" type="462c0819:PsiDirectoryNode" />
+              <item name="L9 前端基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;sqlite&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="mysql&#9;FILE&#9;file://D:/pycharm_wenjian/L24-数据库2/2mysql.md&#10;重命名&#9;FILE&#9;file://D:/pycharm_wenjian/作业/文件批量重命名.py&#10;os&#9;null&#9;null&#10;匿名&#9;null&#9;null&#10;正则&#9;FILE&#9;file://D:/pycharm_wenjian/L8包/11 正则.py&#10;wh&#9;null&#9;null&#10;for&#9;FILE&#9;file://D:/pycharm_wenjian/pycharm/for 循环.py&#10;if&#9;FILE&#9;file://D:/pycharm_wenjian/pycharm/1.if语句.py&#10;url&#9;null&#9;null&#10;学生管理&#9;FILE&#9;file://D:/pycharm_wenjian/L10-数据库基础和sqlite/学生管理系统_sqlite版.py&#10;test&#9;null&#9;null&#10;pip&#9;null&#9;null&#10;mongo&#9;null&#9;null&#10;格式化&#9;null&#9;null&#10;兴趣&#9;FILE&#9;file://D:/pycharm 文件/课外兴趣&#10;类型&#9;FILE&#9;file://D:/pycharm 文件/数据结构容器/数据结构类型转换.md&#10;列表&#9;FILE&#9;file://D:/pycharm 文件/作业/作业-列表去重.py&#10;元组&#9;FILE&#9;file://D:/pycharm 文件/数据结构容器/元组.md&#10;换行&#9;null&#9;null&#10;fo&#9;FILE&#9;file://D:/pycharm 文件/pycharm/for 循环.py&#10;字典&#9;FILE&#9;file://D:/pycharm 文件/数据结构容器/学生管理系统v2-字典.py&#10;din&#9;null&#9;null&#10;len&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="D:/untitled/honest-say-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm_wenjian\L40-爬虫入门" />
+      <recent name="D:\pycharm_wenjian\L24-数据库2" />
+      <recent name="D:\pycharm_wenjian\L10-数据库基础和sqlite" />
+      <recent name="D:\pycharm 文件\作业\验证码包" />
+      <recent name="D:\pycharm 文件\作业" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm_wenjian\L41更多的解析方式" />
+      <recent name="D:\pycharm_wenjian\L24-数据库2" />
+      <recent name="D:\pycharm 文件\L9 前端基础" />
+      <recent name="D:\pycharm 文件\作业\验证码包" />
+      <recent name="D:\pycharm 文件\2.基础类型 控制语句" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.17-css定位和浮动.html">
+    <configuration name="17-css定位和浮动.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pycharm_wenjian/L9 前端基础/17-css定位和浮动.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="图片作业" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L42更多的资源类型" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L42更多的资源类型/图片作业.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L42更多的资源类型" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L42更多的资源类型/2.图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3需要登录" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L42更多的资源类型" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L42更多的资源类型/3需要登录.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4代理池" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../untitled/老师讲义/L40爬虫入门" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untitled/老师讲义/L40爬虫入门/4代理池.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件批量重命名" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/文件批量重命名.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="实验" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L42更多的资源类型" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L42更多的资源类型/实验.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬虫正则爬取" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L41更多的解析方式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L41更多的解析方式/爬虫正则爬取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬取小说" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L41更多的解析方式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L41更多的解析方式/爬取小说.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬虫正则爬取" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm 文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L41更多的解析方式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L41更多的解析方式/爬虫正则爬取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.2.图片" />
+      <item itemvalue="Python.图片作业" />
+      <item itemvalue="Python.4代理池" />
+      <item itemvalue="Python.3需要登录" />
+      <item itemvalue="JavaScript Debug.17-css定位和浮动.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.17-css定位和浮动.html" />
+        <item itemvalue="Python.3需要登录" />
+        <item itemvalue="Python.图片作业" />
+        <item itemvalue="Python.2.图片" />
+        <item itemvalue="Python.4代理池" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="235f27a4-39e7-4c1f-b325-8136d45fbfc5" name="Default Changelist" comment="" />
+      <created>1536659947111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536659947111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1513" height="817" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.52277654" side_tool="true" weight="0.16357388" />
+      <window_info id="Favorites" order="1" sideWeight="0.5117241" side_tool="true" weight="0.11649783" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.47722343" visible="true" weight="0.12371134" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3211679" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49484536" weight="0.29343066" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5976155" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3270073" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32743362" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50309277" side_tool="true" weight="0.33722627" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6131387" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49854228" weight="0.42919707" />
+      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.4969072" weight="0.33722627" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32846716" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3257732" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.026804123" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.52277654" side_tool="true" weight="0.16357388" />
+      <window_info id="Favorites" order="1" sideWeight="0.5117241" side_tool="true" weight="0.11649783" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.47722343" visible="true" weight="0.17113402" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3211679" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49484536" weight="0.29343066" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3620438" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3270073" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32791728" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50309277" side_tool="true" weight="0.33722627" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.62186116" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49854228" weight="0.42919707" />
+      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.4969072" weight="0.33722627" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32846716" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3257732" />
+      <window_info anchor="right" id="Database" order="4" weight="0.10584193" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/L10-数据库基础和sqlite/2-sqlite示例1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/L42更多的资源类型/3test未登录请求个人页返回.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15664">
+          <caret line="712" column="28" selection-start-line="712" selection-start-column="28" selection-end-line="712" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L42更多的资源类型/2.图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L40-爬虫入门/10糗事百科.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L40-爬虫入门/4代理池.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L40-爬虫入门/7天气接口访问数据.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L40-爬虫入门/7请求天气接口.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L42更多的资源类型/4js接口.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L41更多的解析方式/爬取小说.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L41更多的解析方式/爬虫xpath爬取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="34" selection-start-line="34" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L40-爬虫入门/6dict和ison互转.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L40-爬虫入门/爬虫内容存储.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作业/文件批量重命名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/2-字符编码.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/3-写文本文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/5-with语句.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/6-读非纯文本文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/7-写非文本文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/4-读文本文件-捕获异常.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/8-更多模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/9-base64编码.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/untitled/老师讲义/学生演讲/lll.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L7本地文件读写/1-读文本文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.基础类型 控制语句/基础数据类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1367" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L27django/1介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-223" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L27django/2模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L27django/3路由视图函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L25版本控制工具/1 git安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="484">
+            <caret line="19" column="97" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="19" selection-end-column="97" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L24-数据库2/2mysql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="594">
+            <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L24-数据库2/6 sql进阶.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L24-数据库2/6 更多的sql语句.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L24-数据库2/8workbench.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L24-数据库2/9mysql驱动.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm/1.if语句.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/17-css.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L25版本控制工具/3 图形化工具.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L23前端二/bootstrap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L24-数据库2/1-mongodb.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/5-表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/作业2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="61" lean-forward="true" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/作业2css.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/作业.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/19-字体图标.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/21-js介绍.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/22js.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/14css.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/15-css盒子模型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/16-css盒子模型练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/17-css定位和浮动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1408">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/18-综合练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L9 前端基础/18-css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

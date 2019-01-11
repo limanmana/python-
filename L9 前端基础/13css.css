@@ -1,0 +1,16 @@
+body{
+    background-color: royalblue;
+    background-image: url("u=4028486421,3451756976&fm=26&gp=0.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+p{
+    font-family: "Microsoft YaHei ", sans-serif;
+    color: royalblue;
+    font-size: 15px;
+    text-align: left;
+    text-indent:10px;
+}

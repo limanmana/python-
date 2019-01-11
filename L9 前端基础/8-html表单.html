@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单</title>
+</head>
+<body>
+    <h3>表单</h3>
+
+
+
+    <form action=""enctype="multipart/form-data">
+
+        <label>用户名：</label><input type="text" placeholder="请输入用户名" required="true"><br/>
+
+        <label>邮箱：</label><input type="email" placeholder="请输入邮箱"><br/>
+
+        <label>密码：</label><input type="password" placeholder=" 请输入密码" required="true"/><br/>
+
+        单选
+        男<input type="radio"name="sex"value="male">
+        女<input type="radio"name="sex"value="female"><br/>
+
+        复选框：
+        体育<input type="checkbox" name="hobby"value="sport">
+        数学<input type="checkbox" name="hobby"value="sport">
+        语文<input type="checkbox" name="hobby"value="sport">
+        历史<input type="checkbox" name="hobby"value="sport"><br/>
+
+        下拉列表：
+        <select>
+            <option>不惑</option>
+            <option>洞玄</option>
+            <option>知命</option>
+            <option>天启</option>
+            <option>无距</option>
+            <option>无矩</option>
+        </select><br/>
+
+        文本域：
+        <textarea placeholder="反馈建议"readonly="true"></textarea><br/>
+
+        上传文件：
+        <input type="file"><br/>
+
+        <input type="reset" value="点击重置信息"><br/>
+
+        <input type="submit" value="提交">
+
+
+    </form>
+</body>
+</html>
+<!--
+查看网页源代码
+谷歌浏览器网页空白右键/审查
+
+
+
+
+
+-->
+
+
+<!--
+form标签： 表单
+input标签： 用户输入相关
+type属性：
+- text 文本框
+- password 密码框，自动隐藏密码
+- placeholder 文本框内提示信息
+- radio 单选。注意那一组input选项起相同的name属性，写好value属性。
+- checkbox 多选
+- reset 重置
+-submit  提交
+- file  上传文件
+- email  邮箱
+required属性： 必填项
+action属性： 第一表单请求的后台地址
+
+select标签： 下拉列表
+option标签： 下列列表中的一项
+
+textarea标签： 文本域
+
+
+-->

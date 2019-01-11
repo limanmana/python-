@@ -1,0 +1,29 @@
+/*标签选择器*/
+
+body{
+    background-color: tan;
+}
+
+ /*派生选择器*/
+ p strong{
+    color:orangered;
+     font-size:35px;
+}
+ul li strong{
+     color:red;
+ }
+
+/*id 选择器*/
+#n1{
+    color:royalblue;
+
+}
+/*类选择器*/
+.chapter{
+    color:springgreen;
+}
+
+/*属性选择器*/
+[title="提示文字"]{
+    color: red;
+}
